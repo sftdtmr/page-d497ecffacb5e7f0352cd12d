@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6d0372db383326cc53786ef1",
+  "owner": "sftdtmr",
+  "repo": "page-d497ecffacb5e7f0352cd12d",
+  "title": "闲鱼网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d497ecffacb5e7f0352cd12d",
+      "a": "闲鱼网络",
+      "b": "稳定全球clash加速器",
+      "entity": "闲鱼网络",
+      "brand": "闲鱼网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2b5e22370593d70827a32f75bbc4c5eb4a82f003a1c4759117598a2129c96f4d",
+      "content": {
+        "primary_entity": "闲鱼网络",
+        "keyword1": "闲鱼网络",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量选套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "挑好套餐再上路",
+          "AI_DESCRIPTION": "，闲鱼网络提供基础版、旗舰版和团队版三档方案，月付从 ¥15 到 ¥85，年付更划算。基础版适合个人日常浏览，旗舰版带 IPLC 专线对游戏加速更友好，团队版支持 20 台设备与企业定制路由。搭配 Clash 客户端导入订阅，按设备选择合适客户端，能较顺畅地切换节点使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个角度拆解套餐差异。",
+          "AI_FEATURES_TITLE": "选套餐看这三点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按日常用量匹配即可。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，多设备办公选团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付划算，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备上限",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先定需求，再装客户端，最后导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "闲鱼网络面向需要 Clash 客户端的用户，提供基础版、旗舰版和团队版三档订阅，覆盖不同的流量与设备数量需求。按客户端文档完成订阅导入，即可配合 Clash 使用节点线路。",
+          "AI_HERO_SUBTITLE": "多档订阅适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "年付可省约两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别约 ¥150、¥350、¥850。按设备数和月流量对号入座即可。",
+          "AI_PLANS_TITLE": "套餐对比一目了然",
+          "AI_STEP_TEXT_1": "先确定常用设备的数量和每月大致流量，个人使用基础版即可，多人或办公考虑旗舰版、团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与流量上限，确认满足手机、电脑或路由器的使用需求。",
+          "AI_STEP_TEXT_3": "按 Clash 客户端文档导入订阅链接，在客户端内选择节点并保存配置。",
+          "AI_STEP_TITLE_1": "明确使用需求",
+          "AI_STEP_TITLE_2": "核对套餐适配",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "闲鱼网络套餐一览",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "闲鱼网络支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台同时在线。手机、电脑等常见设备可按对应客户端导入订阅使用。",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_2": "三档套餐均提供月付与年付，年付价格更实惠。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用可考虑年付。",
+          "AI_FAQ_QUESTION_3": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。若流量不足可升级至更高档套餐，或根据实际使用量调整订阅周期。",
+          "AI_FAQ_QUESTION_4": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_ANSWER_4": "旗舰版流量提升至 300GB，支持 5 台设备，提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，并含 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量，支持 20 台设备同时在线，提供 VIP 专属高带宽节点与企业定制路由选项，适合多人协作或小型团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qdhsl.cn",
+    "host": "qdhsl.cn"
+  },
+  "file_hashes": {
+    "index.html": "6955ae1b94f16b7d3ded266a276ff73089ed113e3641ea31a5f2e40647956c0d",
+    "sitemap.xml": "1cf474e90bd5453e01ce06726a6e67fbe177e84c1baa283290be4aa1286eb3bd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f35198ce968cded140eaa4eb9464277551b2a4c9a9ae02e06f30b830c2aaabb7",
+    "robots.txt": "236423e73e8bb66a81a3fea6f7d6cdff8b2679cf187a6efc535afad5cfda8a33",
+    "2cd553ca77e2ce805e32c0fd7e972017.txt": "6f8b8488dbc268d2ad97710e7698256228358ff831dde18cd3bb1a8c58f50174"
+  },
+  "revision": "5d5b9b7e82e4498cbcfafd18ff5f01378d18f9b39bb60024599e0cac4ef4b0ce"
+}
